@@ -1,0 +1,14 @@
+Data Collection/
+
+# ignore large notebooks
+All Code/AllMethodsimg.ipynb
+
+# ignore large models
+*.pth
+*.h5
+*.pt
+
+# medical files
+*.dcm
+*.nii
+*.nii.gz
